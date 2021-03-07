@@ -11,7 +11,7 @@ L'utilizzo dell'applicativo deve essere suddiviso in almeno tre fasi:
 
 **FASE 1 - settaggio** 
 Il primo passo è quello di decidere tutti i dettagli della composizione delle squadre, tra cui:
-*numero di squadre iscritte
+Markup: *numero di squadre iscritte
 *numero di giocatori per squadra e numero di giocatori per ruolo
 *crediti disponibili per l'acquisto dei giocatori
 *metedo di selezione dei giocatori (a chiamata (1) o per estrazione randomica (2))
