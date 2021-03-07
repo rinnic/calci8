@@ -12,9 +12,9 @@ L'utilizzo dell'applicativo deve essere suddiviso in almeno tre fasi:
 **FASE 1 - settaggio** 
 Il primo passo è quello di decidere tutti i dettagli della composizione delle squadre, tra cui:
 Markup: *numero di squadre iscritte
-*numero di giocatori per squadra e numero di giocatori per ruolo
-*crediti disponibili per l'acquisto dei giocatori
-*metedo di selezione dei giocatori (a chiamata (1) o per estrazione randomica (2))
+- numero di giocatori per squadra e numero di giocatori per ruolo
+- crediti disponibili per l'acquisto dei giocatori
+- metedo di selezione dei giocatori (a chiamata (1) o per estrazione randomica (2))
 
 **FASE 2 - assegnazione giocatori**
 Una volta inziata l'asta si dà il via alla selezione dei giocatori in una delle due modalità (ricerca o random)
