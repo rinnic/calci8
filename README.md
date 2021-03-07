@@ -5,13 +5,13 @@ Il metodo di asseganzione dei giocatori alle squadra (e.g. asta a rilancio) è a
 
 Tutti i dettagli dei giocatori sono disponibili a partire da un file csv
 L'utilizzo dell'applicativo deve essere suddiviso in almeno tre fasi:
--settaggio dei criteri di formazione delle squadre
--assegnazione dei giocatori alle squadre
--composizione dei file di resoconto 
+- settaggio dei criteri di formazione delle squadre
+- assegnazione dei giocatori alle squadre
+- composizione dei file di resoconto 
 
 **FASE 1 - settaggio** 
 Il primo passo è quello di decidere tutti i dettagli della composizione delle squadre, tra cui:
-Markup: *numero di squadre iscritte
+- numero di squadre iscritte
 - numero di giocatori per squadra e numero di giocatori per ruolo
 - crediti disponibili per l'acquisto dei giocatori
 - metedo di selezione dei giocatori (a chiamata (1) o per estrazione randomica (2))
